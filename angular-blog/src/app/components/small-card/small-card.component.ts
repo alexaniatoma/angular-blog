@@ -12,6 +12,10 @@ export class SmallCardComponent implements OnInit {
   @Input()
   cardTitle: string = "Saiu a nova versão do Angular"
 
+  @Input()
+  Id:string = "0"
+
+
 
   constructor() { }
 
