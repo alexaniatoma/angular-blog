@@ -1,15 +1,17 @@
 export const dataFake = [
     {
-        "id": 1,
+        "Id": "1",
         "photo": "aaaaa",
-        "title": "saiu novo filme",
-        "description":"ola"
+        "title": "Saiu novo filme",
+        "description":"Esta é a descrição do Blog.",
+        "photoCover": "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/10/img-placeholder.png"
     },
 
     {
-        "id": 1,
+        "Id": "2",
         "photo": "aaaaa",
         "title": "saiu novo filme",
-        "description":"ola"
+        "description":"ola",
+        "photoCover": "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/10/img-placeholder.png"
     }
 ]
